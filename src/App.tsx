@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
