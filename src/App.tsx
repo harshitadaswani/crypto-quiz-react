@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import logo from "./logo.svg";
 import "./App.css";
 
